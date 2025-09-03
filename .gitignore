@@ -1,1 +1,4 @@
 .venv/
+.gradio/
+.vscode/
+src/__pycache__/

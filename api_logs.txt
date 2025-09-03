@@ -1,0 +1,4 @@
+{
+    "Query": "can i change my password?",
+    "Answer": "You can reset your password by clicking the 'Forgot Password' link on the login page."
+}
