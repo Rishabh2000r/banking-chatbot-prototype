@@ -55,14 +55,4 @@ Run `python chatbot.py` and type your question (type `exit` to quit).
 
 ---
 
-## 📝 Notes
-- This is a **prototype**; no real banking APIs or compliance checks are integrated.  
-- For production use, expand with proper authentication, error handling, and database storage.
-
----
-
-> 🔧 Want to improve this? Add more FAQs, try different models, or build a web interface!  
-
---- 
-
 💬 Feel free to fork, contribute, or suggest improvements.
