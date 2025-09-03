@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do I open an account?",
+        "answer": "You can open an account online through our website or by visiting one of our branches."
+    },
+    {
+        "question": "How do I make a payment?",
+        "answer": "You can make payments via online banking, mobile app, or in person at a branch."
+    },
+    {
+        "question": "What is compliance?",
+        "answer": "Compliance refers to our adherence to all relevant laws and regulations."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page."
+    },
+    {
+        "question": "What are your banking hours?",
+        "answer": "Our banking hours vary by branch. Please check our website for specific locations."
+    }
+]
